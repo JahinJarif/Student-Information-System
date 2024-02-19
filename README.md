@@ -1,4 +1,4 @@
-# Student-Information-System</br>
+# <b> Student Information System </b> </br>
 <b> Author:</b> </br>
         <b> 1. Syed Jahin Jarif </b> </br>
         <b> 2. Syed Fahad Mahmud </b> </br>
