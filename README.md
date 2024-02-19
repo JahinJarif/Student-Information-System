@@ -1,8 +1,9 @@
-# Student-Information-System
-Author: Syed Jahin Jarif 
-        Syed Fahad Mahmud
+# Student-Information-System</br>
+Author:</br>
+        1. Syed Jahin Jarif </br>
+        2. Syed Fahad Mahmud</br>
         
-Suporvisor: Pronab Kumar Mondal
-            Assistant Professor
-            Dept. of CSE
-            Jatiya Kabi Kazi Nazrul Islam University
+Suporvisor: Pronab Kumar Mondal</br>
+            Assistant Professor</br>
+            Dept. of CSE</br>
+            Jatiya Kabi Kazi Nazrul Islam University</br>
