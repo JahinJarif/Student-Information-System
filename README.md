@@ -1,4 +1,4 @@
-Author: Syed Jahin Jarif, Syed Fahad Mahmud
+Authors: Syed Jahin Jarif, Syed Fahad Mahmud
 
 
 Technical Knowledge:
