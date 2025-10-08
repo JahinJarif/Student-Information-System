@@ -12,4 +12,4 @@ Functionality:
 	•	Notice board system with admin controls for posting announcements, session-specific filtering, and real-time date-time stamps.
 
 
-Date of Completion: Dec 2024 (2nd Year, 2nd Semester Project)
+Date of Completion: Dec 2023 (2nd Year, 2nd Semester Project)
